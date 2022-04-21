@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#leaf {
+    width: 20em;
+    height: auto;
+     display: block;
+     margin: 40px auto;
+     border-bottom-right-radius: 60%;
+     border-top-left-radius: 60%;
+     
+}
